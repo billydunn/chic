@@ -8,5 +8,5 @@ Before trying to run the scripts, run the installation script (contained in the 
 I recommend using the wrapper script, train-ch-models.sh. Full instructions for using this are available if the script is called with the help (-h) argument: 
 
 ```bash
-./train-ch-models.sh
+./train-ch-models.sh -h
 ```
