@@ -5,7 +5,7 @@ This repo contains the source code and installation scripts required to run the 
 Before trying to run the scripts, run the installation script (contained in the scripts/ directory) to install the relevant packages and dependencies.
 
 ## Using the framework 
-I recommend using the wrapper script, train-ch-models.sh. Full instructions for using this are available if the script is called with the help (-h) argument: 
+I recommend using the wrapper script, train-ch-models.sh. Full instructions for using this are available if the script is called with the help (-h) flag: 
 
 ```bash
 ./train-ch-models.sh -h
